@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'rango',
     'personal',
     'blog',
     'django.contrib.admin',
